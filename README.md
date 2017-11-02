@@ -4,9 +4,9 @@ My shot at the Cracking the Coding Interview Challenge on Hackerrank using Java 
 The Java source files can be found in the Java_Source directory.
 The C++ source files can be found in the CPP_Source directory.
 
-##CONTENTS:
+## CONTENTS:
 
-###Section 1: Data Structures
+### Section 1: Data Structures
 1. Arrays: Left Rotation
 2. Strings: Making Anagrams
 3. Hash Tables: Ransom Note
@@ -17,7 +17,7 @@ The C++ source files can be found in the CPP_Source directory.
 8. Heaps: Find the Running Median
 9. Tries: Contacts
 
-###Section 2: Algorithms
+### Section 2: Algorithms
 1. Sorting: Bubble Sort
 2. Sorting: Comparator
 3. Merge Sort: Counting Inversions
@@ -25,7 +25,7 @@ The C++ source files can be found in the CPP_Source directory.
 5. DFS: Connected Cell in a Grid
 6. BFS: Shortest Reach in a Graph
 
-###Section 3: Techniques/Concepts
+### Section 3: Techniques/Concepts
 1. Time Complexity: Primality
 2. Recursion: Fibonacci Numbers
 3. Recursion: Davis' Staircase
